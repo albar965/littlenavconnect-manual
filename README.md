@@ -1,5 +1,3 @@
-# Little Navconnect User Manual {#little-navconnect-user-manual}
-
 # Little Navconnect User Manual {#little-navconnect-user-manual-0}
 
 ![Little Navconnect](images/navconnect.svg "Little Navconnect")
