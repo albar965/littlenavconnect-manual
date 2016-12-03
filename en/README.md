@@ -1,6 +1,6 @@
 # Little Navconnect User Manual {#little-navconnect-user-manual-0}
 
-![Little Navconnect](images/navconnect.svg "Little Navconnect")
+![Little Navconnect](../images/navconnect.svg "Little Navconnect")
 
 Version 1.1.0.devel
 
@@ -54,7 +54,7 @@ The setup and link procedure is the same for both remote connections and local c
 2.  Start _Little Navmap_ on the client computer.
 3.  Open the connection dialog in _Little Navmap_ by selecting `Main Menu` -&gt; `Tools` -&gt; `Flight Simulator Connection`.
 
-    ![Little Navmap Connect Dialog](images/connect.jpg "Little Navmap Connect Dialog")
+    ![Little Navmap Connect Dialog](../images/connect.jpg "Little Navmap Connect Dialog")
 
     Picture above: Connect dialog with correct values to access the _Little Navconnect_ shown above.
 
@@ -66,7 +66,7 @@ The setup and link procedure is the same for both remote connections and local c
 
 ### File -&gt; Quit {#file-quit}
 
-![Quit](images/icons/application-exit.png "Quit")
+![Quit](../images/icons/application-exit.png "Quit")
 
 Exits the application. Will ask for confirmation if there are still clients connected.
 
@@ -76,7 +76,7 @@ This will re-enable all dialogs that were disabled by clicking `Do not show this
 
 ### Tools -&gt; Options {#tools-options}
 
-![Quit](images/icons/settings.png "Quit")
+![Quit](../images/icons/settings.png "Quit")
 
 Opens the `Options` dialog which has only two settings:
 
@@ -93,21 +93,21 @@ Opens the `Options` dialog which has only two settings:
 
 #### Help Menu -&gt; Contents {#help-menu-contents}
 
-![Help](images/icons/help.png "Help")
+![Help](../images/icons/help.png "Help")
 
 Shows this help in your default web browser.
 
 #### Help Menu -&gt; About Little Navconnect {#help-menu-about-little-navconnect}
 
-![About](images/icons/navconnect.png "About")
+![About](../images/icons/navconnect.png "About")
 
 Shows version and revision number for _Little Navconnect_, also contains links to the configuration file, log file and the author&#039;s e-mail addresses.
 
 #### Help Menu -&gt; About Qt {#help-menu-about-qt}
 
-![About Qt](images/icons/about.png "About Qt")
+![About Qt](../images/icons/about.png "About Qt")
 
-Information about the [Qt application framework](https://www.qt.io) that is used by _Little Navconnectreco_.
+Information about the [Qt application framework](https://www.qt.io) that is used by _Little Navconnect.
 
 ## How to report a Bug {#how-to-report-a-bug}
 
