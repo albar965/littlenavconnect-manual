@@ -1,8 +1,7 @@
 # Little Navconnect Benutzerhandbuch {#little-navconnect-benutzerhandbuch}
 
-# Little Navconnect Benutzerhandbuch {#little-navconnect-benutzerhandbuch-0}
 
-![Little Navconnect](images/navconnect.svg "Little Navconnect")
+![Little Navconnect](../images/navconnect.svg "Little Navconnect")
 
 Version 1.0.5
 
@@ -42,7 +41,7 @@ Die Einrichtungsprozedur ist die gleiche für entfernte Netzwerkverbindungen, wi
 
 1.  Zuerst [Little Navconnect](https://albar965.github.io/littlenavconnect.html) auf dem Flugrechner installieren. Das Programm starten und die Meldung merken, die im Log-Fenster ausgegeben wird. Nur die farbigen Werte werden gebraucht. Es kann die IP-Adresse oder der Rechnername (Hostname) benutzt werden. Wenn der Flugsimulator läuft, wird sich das Programm automatisch verbinden. Wenn kein Simulator gefunden wurde, versucht _Little Navconnect_ sich in 10-Sekunden Intervallen zu verbinden. Abhängig von der Netzwerkkonfiguration kann _Little Navconnect_ mehrere IP-Adressen bzw. mehrere Rechnernamen ausgeben. Das ist z.B. der Fall, wenn eine Ethernet- und WLAN-Verbindung gleichzeitig besteht. Im Zweifelsfalle alle IP-Adressen bzw. Rechnernamen ausprobieren. `localhost` und `127.0.0.1` wird benutzt, wenn keine Verbindung zu einem Netzwerk besteht.
 
-    ![Little Navconnect](images/littlenavconnect.png "Little Navconnect")
+    ![Little Navconnect](../images/littlenavconnect.png "Little Navconnect")
 
     Bild oben: _Little Navconnect_ wurde gestartet und wartet auf einen Flugsimulator.
 
@@ -54,7 +53,7 @@ Die Einrichtungsprozedur ist die gleiche für entfernte Netzwerkverbindungen, wi
 2.  _Little Navmap_ auf dem Netzwerkrechner starten.
 3.  Den Verbindungsdialog in _Little Navmap_ im `Main Menu` -&gt; `Tools` -&gt; `Flight Simulator Connection` öffnen.
 
-    ![Little Navmap Connect Dialog](images/connect.jpg "Little Navmap Connect Dialog")
+    ![Little Navmap Connect Dialog](../images/connect.jpg "Little Navmap Connect Dialog")
 
     Bild oben: Dialog mit den korrekten Werten, um mit der oben gezeigten [Little Navconnect](https://albar965.github.io/littlenavconnect.html) Instanz Verbindung aufzunehmen.
 
@@ -66,7 +65,7 @@ Die Einrichtungsprozedur ist die gleiche für entfernte Netzwerkverbindungen, wi
 
 ### File -&gt; Quit {#file-quit}
 
-![Quit](images/icons/application-exit.png "Quit")
+![Quit](../images/icons/application-exit.png "Quit")
 
 Beendet das Programm. Ein Abfragedialog erscheint, wenn noch _Little Navmap_ Instanzen verbunden sind.
 
@@ -76,7 +75,7 @@ Dies erlaubt wieder alle Dialoge, die mittels `Do not show this dialog again` au
 
 ### Tools -&gt; Options {#tools-options}
 
-![Quit](images/icons/settings.png "Quit")
+![Quit](../images/icons/settings.png "Quit")
 
 Öffnet den Dialog `Options`, in dem man folgende Einstellungen vornehmen kann:
 
@@ -93,19 +92,19 @@ Dies erlaubt wieder alle Dialoge, die mittels `Do not show this dialog again` au
 
 #### Menü Help -&gt; Contents {#men-help-contents}
 
-![Help](images/icons/help.png "Help")
+![Help](../images/icons/help.png "Help")
 
 Zeigt diese Hilfe in einem Web-Browser.
 
 #### Menü Help -&gt; About Little Navconnect {#men-help-about-little-navconnect}
 
-![About](images/icons/navconnect.png "About")
+![About](../images/icons/navconnect.png "About")
 
 Zeigt die Versions- und Revisionsnummern für _Little Navconnect_. Enthält auch Verknüpfungen zur Konfigurationsdatei, der Logdatei und den E-Mail Adressen des Autors.
 
 #### Menü Help -&gt; About Qt {#men-help-about-qt}
 
-![About Qt](images/icons/about.png "About Qt")
+![About Qt](../images/icons/about.png "About Qt")
 
 Information über den [Qt application framework](https://www.qt.io), der von _Little Navconnect_ benutzt wird.
 
@@ -161,6 +160,8 @@ Dieses Programm wird in der Hoffnung, dass es nützlich sein wird, aber OHNE JED
 
 Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben. Wenn nicht, siehe &lt;[http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)&gt;.
 
-![GPL V3](images/gpl-v3-logo.svg "GPL V3")
+<p>
+<img alt="GPL V3" title="GPL V3" style="width: 166px; height: 82px;" src="../images/gpl-v3-logo.svg" />
+</p>
 
 Letzte Aktualisierung 08.11.2016
