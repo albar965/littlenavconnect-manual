@@ -1,1 +1,3 @@
-[Little Navmap User Manual](README.md)
+# Summary
+
+* [Little Navmap User Manual](README.md)

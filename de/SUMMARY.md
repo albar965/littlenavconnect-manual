@@ -1,4 +1,4 @@
-# Summary
+# Übersicht
 
 * [Little Navconnect Benutzerhandbuch](README.md)
 
