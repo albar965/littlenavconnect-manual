@@ -8,15 +8,15 @@ Version 1.1.0.devel
 
 `Highlighted text` is used to denote window, menu, button, file or directory names.
 
-An installer or setup program is not available.
+Installion involves the simple copying of files therefore an installer or setup program is not required.
 
-Do not extract the archive into the folder `c:\Program Files\` or `c:\Program Files (x86)\` since you will need administrative privileges in some Windows versions. Since Windows keeps control on these folders other problems might occur like replaced or deleted files.
+Do not extract the archive into the folder `c:\Program Files\` or `c:\Program Files (x86)\` since you will need administrative privileges in some Windows versions. Since Windows keeps control of these folders other problems might occur like replaced or deleted files.
 
-The zip archive contains the files `vcredist_x86.exe` and `vcredist_x64.exe` which install the MSVC 2013 runtime distributables. Runing both installers is recommended. The installation will provide a uninstall and repair option if a runtime distributables is already installed and can be skipped in case.
+The zip archive contains the files `vcredist_x86.exe` and `vcredist_x64.exe` which installs the MSVC 2013 runtime distributables. Runing both installers is recommended. The installation will provide an uninstall and repair option if a runtime distributable is already installed and can be skipped in this case.
 
 Extract the Zip archive into a folder like `c:\Own Programs\Little Navconnect`. Then start the program by double-clicking `littlenavconnect.exe`.
 
-_Little Navconnect_ is a 32-bit application and was tested with Windows 7, Windows 8 and Windows 10.
+_Little Navconnect_ is a 32-bit application and was tested with Windows 7, Windows 8 and Windows 10 (32-bit and 64-bit).
 
 Windows XP is not supported.
 
@@ -32,13 +32,12 @@ _FSX Steam Edition_: The installation adds the folder `C:\Program Files (x86)\St
 
 ## General {#general}
 
-_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) with a flight simulator. This saves the pain of setting up a remote SimConnect link and allows using _Little Navmap_ on Linux, macOS or older Windows XP computers.
+_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and allows using _Little Navmap_ on Linux, macOS or older Windows XP computers.
 
-_Little Navmap_ cannot connect to the flight simulator directly. The _Little Navconnect_ agent is always needed, even if all programs run on the same computer.
+_Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting a remote computer.
 
 ## Usage {#usage}
 
-The setup and link procedure is the same for both remote connections and local connections. In the latter case all programs run on the same computer which is both flying and client computer.
 
 1.  Install _Little Navconnect_ on the flying computer. Start it and take note of the message that is printed in the logging window. You only need the colored values. You can use the IP address or the hostname. The program will automatically connect to the flight simulator using SimConnect, if found. If no simulator was found it will retry in 10 second intervals. _Little Navconnect_ can print multiple IP addresses or hostnames depending on your network configuration. This can happen if you have ethernet plugged in and are connected using wireless LAN too, for example. You have to try all addresses if you are unsure which one to use. `localhost` and `127.0.0.1` will be used if you are not connected to a network.
 
