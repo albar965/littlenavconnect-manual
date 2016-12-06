@@ -1,3 +1,4 @@
 # Summary
 
-* [Little Navmap User Manual](README.md)
+* [Little Navconnect User Manual](README.md)
+
