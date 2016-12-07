@@ -8,17 +8,15 @@ Version 1.1.0.devel
 
 `Highlighted text` is used to denote window, menu, button, file or directory names.
 
-Installion involves the simple copying of files therefore an installer or setup program is not required.
+Installation involves the simple copying of files therefore an installer or setup program is not required.
 
 Do not extract the archive into the folder `c:\Program Files\` or `c:\Program Files (x86)\` since you will need administrative privileges in some Windows versions. Since Windows keeps control of these folders other problems might occur like replaced or deleted files.
-
-The zip archive contains the files `vcredist_x86.exe` and `vcredist_x64.exe` which installs the MSVC 2013 runtime distributables. Runing both installers is recommended. The installation will provide an uninstall and repair option if a runtime distributable is already installed and can be skipped in this case.
 
 Extract the Zip archive into a folder like `c:\Own Programs\Little Navconnect`. Then start the program by double-clicking `littlenavconnect.exe`.
 
 _Little Navconnect_ is a 32-bit application and was tested with Windows 7, Windows 8 and Windows 10 (32-bit and 64-bit).
 
-Windows XP is not supported.
+**Windows XP is not supported.**
 
 ### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
 
@@ -32,7 +30,7 @@ _FSX Steam Edition_: The installation adds the folder `C:\Program Files (x86)\St
 
 ## General {#general}
 
-_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and allows using _Little Navmap_ on Linux, macOS or older Windows XP computers.
+_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and allows using _Little Navmap_ on Linux or macOS.
 
 _Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting a remote computer.
 
@@ -43,7 +41,7 @@ _Little Navmap_ can connect to the flight simulator directly when running on the
 
     ![Little Navconnect](../images/littlenavconnect.png "Little Navconnect")
 
-    Picture above: _Little Navconnect_ is running and waiting for a flight simulator.
+    _**Picture above:** _Little Navconnect_ is running and waiting for a flight simulator._
 
     Change the port in the `Options` dialog if you see an error message like shown below:
 
@@ -55,7 +53,7 @@ _Little Navmap_ can connect to the flight simulator directly when running on the
 
     ![Little Navmap Connect Dialog](../images/connect.jpg "Little Navmap Connect Dialog")
 
-    Picture above: Connect dialog with correct values to access the _Little Navconnect_ shown above.
+    _**Picture above:** **TODO REPLACE IMAGE** Connect dialog with correct values to access the _Little Navconnect_ shown above._
 
 4.  Add the value for hostname. This can be either the hostname or the IP address printed by _Little Navconnect_. You can use `localhost` if all programs are running on the same computer.
 5.  Check the value for the port. `51968` is the default value and does not need to be changed usually.
@@ -63,9 +61,7 @@ _Little Navmap_ can connect to the flight simulator directly when running on the
 
 ## Menu {#menu}
 
-### File -&gt; Quit {#file-quit}
-
-![Quit](../images/icons/application-exit.png "Quit")
+### ![Quit](../images/icons/application-exit.png "Quit") File -&gt; Quit {#file-quit}
 
 Exits the application. Will ask for confirmation if there are still clients connected.
 
@@ -73,13 +69,11 @@ Exits the application. Will ask for confirmation if there are still clients conn
 
 This will re-enable all dialogs that were disabled by clicking `Do not show this dialog again` or similar messages.
 
-### Tools -&gt; Options {#tools-options}
-
-![Quit](../images/icons/settings.png "Quit")
+### ![Quit](../images/icons/settings.png "Quit") Tools -&gt; Options {#tools-options}
 
 Opens the `Options` dialog which has only two settings:
 
-*   Update Time Interval: Allowed range is 100 milliseconds up to 2 seconds. _Little Navconnect_ fetches data from Flight Simulator and sends it to all clients (i.e. _Little Navmap_) using this time interval. Increase this value if you get a warning message like shown below:
+*   Update Time Interval: Allowed range is 50 milliseconds up to 2 seconds. _Little Navconnect_ fetches data from Flight Simulator and sends it to all clients (i.e. _Little Navmap_) using this time interval. Increase this value if you get a warning message like shown below:
 
     <pre>[2016-07-27 16:45:35] Dropped more than 50 packages. Reason: Missing reply. Increase update time interval.
     </pre>
@@ -89,24 +83,20 @@ Opens the `Options` dialog which has only two settings:
 
     <pre>[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.
     </pre>
+* Hide hostname and IP in log window: Check this option to disable printing of hostname and IP address on startup. This can be useful for streaming sessions where _Little Navconnect_ window is visible to others.       
+ 
 
-#### Help Menu -&gt; Contents {#help-menu-contents}
-
-![Help](../images/icons/help.png "Help")
+#### ![Help](../images/icons/help.png "Help") Help Menu -&gt; Contents {#help-menu-contents}
 
 Shows this help in your default web browser.
 
-#### Help Menu -&gt; About Little Navconnect {#help-menu-about-little-navconnect}
-
-![About](../images/icons/navconnect.png "About")
+#### ![About](../images/icons/navconnect.png "About") Help Menu -&gt; About Little Navconnect {#help-menu-about-little-navconnect}
 
 Shows version and revision number for _Little Navconnect_, also contains links to the configuration file, log file and the author&#039;s e-mail addresses.
 
-#### Help Menu -&gt; About Qt {#help-menu-about-qt}
+#### ![About Qt](../images/icons/about.png "About Qt") Help Menu -&gt; About Qt {#help-menu-about-qt}
 
-![About Qt](../images/icons/about.png "About Qt")
-
-Information about the [Qt application framework](https://www.qt.io) that is used by _Little Navconnect.
+Information about the [Qt application framework](https://www.qt.io) that is used by _Little Navconnect_.
 
 ## How to report a Bug {#how-to-report-a-bug}
 
@@ -136,7 +126,7 @@ All configuration files of my programs for Windows 7/8/10 are typically stored i
 
 `C:\Users\YOURUSERNAME\AppData\Roaming\ABarthel`
 
-There are one configuration file for this program:
+There is one configuration file for this program:
 
 `little_navconnect.ini`: INI style configuration file. Text file.
 
@@ -162,4 +152,4 @@ You should have received a copy of the GNU General Public License along with thi
 <img alt="GPL V3" title="GPL V3" style="width: 166px; height: 82px;" src="../images/gpl-v3-logo.svg" />
 </p>
 
-Last update 2016-10-25
+Last update 2016-12-08
