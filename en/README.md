@@ -39,7 +39,7 @@ _Little Navmap_ can connect to the flight simulator directly when running on the
 
 1.  Install _Little Navconnect_ on the flying computer. Start it and take note of the message that is printed in the logging window. You only need the colored values. You can use the IP address or the hostname. The program will automatically connect to the flight simulator using SimConnect, if found. If no simulator was found it will retry in 10 second intervals. _Little Navconnect_ can print multiple IP addresses or hostnames depending on your network configuration. This can happen if you have ethernet plugged in and are connected using wireless LAN too, for example. You have to try all addresses if you are unsure which one to use. `localhost` and `127.0.0.1` will be used if you are not connected to a network.
 
-    ![Little Navconnect](../images/littlenavconnect.png "Little Navconnect")
+    ![Little Navconnect](../images/littlenavconnect.jpg "Little Navconnect")
 
     _**Picture above:** _Little Navconnect_ is running and waiting for a flight simulator._
 
