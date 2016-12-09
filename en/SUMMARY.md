@@ -1,7 +1,11 @@
 # Summary
 
-* [Introduction](INTRO.md)
-* [Menu](MENU.md)
+* [Installation](INTRO.md#installation)
+* [General](INTRO.md#general)
 * [Usage](USAGE.md)
-* [](APPENDIX.md)
+* [Menu](MENU.md)
+* [How to report a Bug](APPENDIX.md#how-to-report-a-bug)
+* [Files](APPENDIX.md#files)
+* [Acknowlegments](APPENDIX.md#acknowlegments)
+* [License](APPENDIX.md#license)
 
