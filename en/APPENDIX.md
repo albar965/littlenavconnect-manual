@@ -10,7 +10,7 @@ In no case file names from anything else than flight simulator scenery or config
 
 I'd suggest to remove this information if you&#039;re concerned about it.
 
-I strongly recommend to send the log files by PM or by email and not attach them to forum posts where they are publicly visible.
+I strongly recommend to send the log files using a private forum message or by email and not attach them to forum posts where they are publicly visible.
 
 ## Files {#files}
 
