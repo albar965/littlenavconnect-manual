@@ -51,7 +51,7 @@ Die Einrichtungsprozedur ist die gleiche für entfernte Netzwerkverbindungen, wi
     </pre>
 
 2.  _Little Navmap_ auf dem Netzwerkrechner starten.
-3.  Den Verbindungsdialog in _Little Navmap_ im `Main Menu` -&gt; `Tools` -&gt; `Flight Simulator Connection` öffnen.
+3.  Den Verbindungsdialog in _Little Navmap_ im `Main Menu` -> `Tools` -> `Flight Simulator Connection` öffnen.
 
     ![Little Navmap Connect Dialog](../images/connect.jpg "Little Navmap Connect Dialog")
 
@@ -63,17 +63,17 @@ Die Einrichtungsprozedur ist die gleiche für entfernte Netzwerkverbindungen, wi
 
 ## Menü {#men}
 
-### File -&gt; Quit {#file-quit}
+### File -> Quit {#file-quit}
 
 ![Quit](../images/icons/application-exit.png "Quit")
 
 Beendet das Programm. Ein Abfragedialog erscheint, wenn noch _Little Navmap_ Instanzen verbunden sind.
 
-### Tools -&gt; Reset Messages {#tools-reset-messages}
+### Tools -> Reset Messages {#tools-reset-messages}
 
 Dies erlaubt wieder alle Dialoge, die mittels `Do not show this dialog again` ausgeschaltet wurden.
 
-### Tools -&gt; Options {#tools-options}
+### Tools -> Options {#tools-options}
 
 ![Quit](../images/icons/settings.png "Quit")
 
@@ -90,19 +90,19 @@ Dies erlaubt wieder alle Dialoge, die mittels `Do not show this dialog again` au
     <pre>[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.
     </pre>
 
-#### Menü Help -&gt; Contents {#men-help-contents}
+#### Menü Help -> Contents {#men-help-contents}
 
 ![Help](../images/icons/help.png "Help")
 
 Zeigt diese Hilfe in einem Web-Browser.
 
-#### Menü Help -&gt; About Little Navconnect {#men-help-about-little-navconnect}
+#### Menü Help -> About Little Navconnect {#men-help-about-little-navconnect}
 
 ![About](../images/icons/navconnect.png "About")
 
 Zeigt die Versions- und Revisionsnummern für _Little Navconnect_. Enthält auch Verknüpfungen zur Konfigurationsdatei, der Logdatei und den E-Mail Adressen des Autors.
 
-#### Menü Help -&gt; About Qt {#men-help-about-qt}
+#### Menü Help -> About Qt {#men-help-about-qt}
 
 ![About Qt](../images/icons/about.png "About Qt")
 
@@ -158,7 +158,7 @@ Dieses Programm ist Freie Software: Sie können es unter den Bedingungen der GNU
 
 Dieses Programm wird in der Hoffnung, dass es nützlich sein wird, aber OHNE JEDE GEWÄHRLEISTUNG, bereitgestellt; sogar ohne die implizite Gewährleistung der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe die GNU General Public License für weitere Details.
 
-Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben. Wenn nicht, siehe &lt;[http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)&gt;.
+Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben. Wenn nicht, siehe &lt;[http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)>.
 
 <p>
 <img alt="GPL V3" title="GPL V3" style="width: 166px; height: 82px;" src="../images/gpl-v3-logo.svg" />

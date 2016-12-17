@@ -8,7 +8,7 @@ If you're concerned about privacy when sending log files: The log files will con
 
 In no case file names from anything else than flight simulator scenery or configuration files are included. No names or content of personal files is included in the log files.
 
-I'd suggest to remove this information if you&#039;re concerned about it.
+I'd suggest to remove this information if you're concerned about it.
 
 I strongly recommend to send the log files using a private forum message or by email and not attach them to forum posts where they are publicly visible.
 
