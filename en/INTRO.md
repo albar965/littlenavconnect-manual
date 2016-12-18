@@ -14,9 +14,9 @@ _Little Navconnect_ is a 32-bit application and was tested with Windows 7, Windo
 
 ### Installing over a previous Release
 
-It is recommended to delete the old installation directory of _Little Navmap_. You can also install a newer version into a new directory but do not merge the installation directories.
+It is recommended to delete the old installation directory of _Little Navconnect_. You can also install a newer version into a new directory but do not merge the installation directories.
 
-Anyway, no settings (except custom maps) are a stored in the installtion directory. Therefore it is safe to remove it.
+Anyway, no settings (except custom maps) are a stored in the installation directory. Therefore it is safe to remove it.
 
 ### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
 
