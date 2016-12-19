@@ -8,4 +8,6 @@ More about my projects at [**GitHub**](https://albar965.github.io).
 
 Copyright 2015-2016 Alexander Barthel
 
+---
+
 Last updated {{ gitbook.time }}.
