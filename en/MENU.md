@@ -10,19 +10,19 @@ This will re-enable all dialogs that were disabled by clicking `Do not show this
 
 ### ![Quit](../images/icons/settings.png "Quit") Tools -> Options {#tools-options}
 
-Opens the `Options` dialog which has only two settings:
+Opens the `Options` dialog which has three settings:
 
-* `Update Time Interval`: Allowed range is 50 milliseconds up to 1 second. _Little Navconnect_ fetches data from Flight Simulator and sends it to all clients \(i.e. _Little Navmap_\) using this time interval. Increase this value if you get a warning message like shown below:
+* **`Update Time Interval`:** Allowed range is 50 milliseconds up to 1 second. _Little Navconnect_ fetches data from Flight Simulator and sends it to all clients \(i.e. _Little Navmap_\) using this time interval. Increase this value if you get a warning message like shown below:
 
   `[2016-07-27 16:45:35] Dropped more than 50 packages. Reason: Missing reply. Increase update time interval.`
 
   Dropped packages can also appear if the _Little Navmap_ cannot respond because a dialog is open.
 
-* `Network Port`: This can normally be left at default. Change this value only if another application occupies this port and you get an error message like shown below when starting _Little Navconnect_:
+* **`Network Port`:** This can normally be left at default. Change this value only if another application occupies this port and you get an error message like shown below when starting _Little Navconnect_:
 
   `[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.`
 
-* `Hide hostname and IP in log window`: Check this option to disable printing of hostname and IP address on startup. This can be useful for streaming sessions where _Little Navconnect_ window is visible to others.
+* **`Hide hostname and IP in log window`:** Check this option to disable printing of hostname and IP address on startup. This can be useful for streaming sessions where _Little Navconnect_ window is visible to others.
 
 
 #### ![Help](../images/icons/help.png "Help") Help Menu -> Contents {#help-menu-contents}
