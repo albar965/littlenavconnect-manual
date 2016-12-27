@@ -1,7 +1,7 @@
 # Summary
 
-* [Installation](INTRO.md#installation)
-* [General](INTRO.md#general)
+* [Installation](START.md#installation)
+* [General](START.md#general)
 * [Usage](USAGE.md)
 * [Menu](MENU.md)
 * [How to report a Bug](APPENDIX.md#how-to-report-a-bug)
