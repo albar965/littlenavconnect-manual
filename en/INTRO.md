@@ -29,7 +29,6 @@ You might have to install an older version of SimConnect if you use _Prepar3D_ o
 **_FSX Steam Edition_:** The installation adds the folder `C:\Program Files (x86)\Steam\SteamApps\common\FSX\SDK\Core Utilities Kit\SimConnect SDK\LegacyInterfaces` where you can find the legacy SimConnect interfaces.
 
 ## General {#general}
-
 _Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and allows using _Little Navmap_ on Linux or macOS.
 
 _Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting a remote computer.
