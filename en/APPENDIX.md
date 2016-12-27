@@ -2,7 +2,7 @@
 
 If something goes wrong send me _Little Navconnect_'s log file and configuration file which both can be located in the about dialog. My e-mail address is shown in the about dialog of _Little Navconnect_ as well.
 
-Please add all steps that are neccessary to reproduce the error.
+Please add all steps that are necessary to reproduce the error.
 
 If you're concerned about privacy when sending log files: The log files will contain all paths (like your `Documents` directory) which will also include your username as a part of the path. They might also contain your computer's name IP address in your network.
 
@@ -30,7 +30,7 @@ There is one configuration file for this program:
 
 `little_navconnect.ini`: INI style configuration file. Text file.
 
-## Acknowlegments {#acknowlegments}
+## Acknowledgments {#acknowledgments}
 
 A big thank-you for all people supporting me throughout the beta phase, sending me their log files, screen shots, friendly messages and more.
 
