@@ -4,7 +4,7 @@
 
 # Deutsch
 
-* [Little Navconnect Benutzerhandbuch](de/README.md)
-
+* [Little Navconnect Benutzerhandbuch](de/README.md)  \(Outdated - need volunteers for translation into other languages\) - \(Veraltet. Freiwillige zur Übersetzung gesucht.\)
+ 
 
 

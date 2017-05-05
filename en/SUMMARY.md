@@ -1,9 +1,9 @@
 # Summary
 
-* [Installation](START.md#installation)
+* [Installation](START.md)
 * [General](START.md#general)
 * [Usage](USAGE.md)
-* [Menu](MENU.md)
+* [Menu and Options](MENU.md)
 * [How to report a Bug](APPENDIX.md#how-to-report-a-bug)
 * [Files](APPENDIX.md#files)
 * [Acknowledgments](APPENDIX.md#acknowledgments)

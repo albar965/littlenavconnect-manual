@@ -1,5 +1,7 @@
 ## Installation {#installation}
 
+**Note that _Little Navconnect_ is now bundled with the _Little Navmap_ download.**
+
 `Highlighted text` is used to denote window, menu, button, file or directory names.
 
 Installation involves the simple copying of files therefore an installer or setup program is not required.

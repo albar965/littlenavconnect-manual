@@ -1,4 +1,4 @@
-## Menu {#menu}
+## Menu and Options {#menu}
 
 ### ![Quit](../images/icons/application-exit.png "Quit") File -> Quit {#file-quit}
 
@@ -22,8 +22,13 @@ Opens the `Options` dialog which has three settings:
 
   `[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.`
 
+* **`Fetch AI or multiplayer aircraft` and `Fetch AI or multiplayer ships`:** Disables fetching of AI vehicles and the transfer across the network. This can be useful for performance reasons if you use large amounts of AI but do not want to see it in _Little Navmap_.
+
 * **`Hide hostname and IP in log window`:** Check this option to disable printing of hostname and IP address on startup. This can be useful for streaming sessions where _Little Navconnect_ window is visible to others.
 
+![Little Navconnect Options Dialog](../images/options.jpg "Little Navconnect Options Dialog")
+
+_**Picture above:** Little Navconnect Options Dialog with default settings._
 
 #### ![Help](../images/icons/help.png "Help") Help Menu -> Contents {#help-menu-contents}
 
