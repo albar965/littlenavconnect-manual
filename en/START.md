@@ -1,6 +1,6 @@
 ## Installation {#installation}
 
-**Note that _Little Navconnect_ is now bundled with the _Little Navmap_ download.**
+**Note that *Little Navconnect* is now bundled with the *Little Navmap* download.**
 
 `Highlighted text` is used to denote window, menu, button, file or directory names.
 
@@ -10,15 +10,13 @@ Do not extract the archive into the folder `c:\Program Files\` or `c:\Program Fi
 
 Extract the Zip archive into a folder like `c:\Own Programs\Little Navconnect`. Then start the program by double-clicking `littlenavconnect.exe`.
 
-_Little Navconnect_ is a 32-bit application and was tested with Windows 7, Windows 8 and Windows 10 (32-bit and 64-bit).
-
-**Windows XP is not supported.**
+*Little Navconnect* is a 32-bit application and was tested with Windows 7, Windows 8 and Windows 10 (32-bit and 64-bit).
 
 ### Installing over a previous Release
 
-It is recommended to delete the old installation directory of _Little Navconnect_. You can also install a newer version into a new directory but do not merge the installation directories.
+It is recommended to delete the old installation directory of _Little Navconnect_. You can also install a newer version into another directory but do not merge the installation directories.
 
-Anyway, no settings (except custom maps) are a stored in the installation directory. Therefore it is safe to remove it.
+Anyway, no settings are a stored in the installation directory. Therefore it is safe to remove it.
 
 ### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
 
