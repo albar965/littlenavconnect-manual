@@ -5,6 +5,9 @@
 
 Version 1.0.5
 
+**Veraltet. Freiwillige zur Übersetzung gesucht.**
+
+
 ## Installation {#installation}
 
 `Hervorgehobener Text` zeigt Fenster-, Menü-, Schaltflächen-, Datei- oder Verzeichnisnamen an.
