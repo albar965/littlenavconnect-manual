@@ -1,6 +1,6 @@
 ## How to report a Bug {#how-to-report-a-bug}
 
-If something goes wrong send me _Little Navconnect_'s log file and configuration file which both can be located in the about dialog. My e-mail address is shown in the about dialog of _Little Navconnect_ as well.
+If something goes wrong send me _Little Navconnect_'s log file and configuration file which both can be located in the about dialog. My e-mail address is shown in the about dialog of _Little Navconnect_ as well. Please compress the log file in a ZIP archive.
 
 Please add all steps that are necessary to reproduce the error.
 
@@ -13,6 +13,8 @@ I'd suggest to remove this information if you're concerned about it.
 I strongly recommend to send the log files using a private forum message or by email and not attach them to forum posts where they are publicly visible.
 
 ## Files {#files}
+
+### Windows
 
 Log files of _Little Navconnect_ for Windows 7/8/10 are typically stored in the directory:
 
@@ -29,6 +31,10 @@ All configuration files of my programs for Windows 7/8/10 are typically stored i
 There is one configuration file for this program:
 
 `little_navconnect.ini`: INI style configuration file. Text file.
+
+### macOS and Linux
+
+The configuration files are stored in `$HOME/.config/ABarthel` on macOS and Linux. Log files are stored in `/tmp` on Linux and in `/var/folders` on macOS.
 
 ## Acknowledgments {#acknowledgments}
 

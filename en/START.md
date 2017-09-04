@@ -1,8 +1,12 @@
 ## Installation {#installation}
 
-**Note that *Little Navconnect* is now bundled with the *Little Navmap* download.**
+**Note that *Little Navconnect* is bundled with the *Little Navmap* download.**
 
 `Highlighted text` is used to denote window, menu, button, file or directory names.
+
+*Little Navconnect* is a 32-bit application and was tested with Windows 7, Windows 8, Windows 10 (32-bit and 64-bit), macOS Sierra and Ubuntu Linux.
+
+### Windows
 
 Installation involves the simple copying of files therefore an installer or setup program is not required.
 
@@ -10,18 +14,16 @@ Do not extract the archive into the folder `c:\Program Files\` or `c:\Program Fi
 
 Extract the Zip archive into a folder like `c:\Own Programs\Little Navconnect`. Then start the program by double-clicking `littlenavconnect.exe`.
 
-In some cases you have to install the [Update for Visual C\+\+ 2013 and Visual C\+\+ Redistributable Package](https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package). Install both 32 and 64 bit versions.  
+In some cases you have to install the [Update for Visual C\+\+ 2013 and Visual C\+\+ Redistributable Package](https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package). Install both 32 and 64 bit versions.
 Usually this is already installed since many other programs require it.
 
-*Little Navconnect* is a 32-bit application and was tested with Windows 7, Windows 8 and Windows 10 (32-bit and 64-bit).
-
-### Installing over a previous Release
+#### Installing over a previous Release
 
 It is recommended to delete the old installation directory of _Little Navconnect_. You can also install a newer version into another directory but do not merge the installation directories.
 
 Anyway, no settings are a stored in the installation directory. Therefore it is safe to remove it.
 
-### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
+#### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
 
 This program was compiled using plain FSX SP2 (no Acceleration) SimConnect version 10.0.61259.0.
 
@@ -31,8 +33,17 @@ You might have to install an older version of SimConnect if you use _Prepar3D_ o
 
 **_FSX Steam Edition_:** The installation adds the folder `C:\Program Files (x86)\Steam\SteamApps\common\FSX\SDK\Core Utilities Kit\SimConnect SDK\LegacyInterfaces` where you can find the legacy SimConnect interfaces.
 
-## General {#general}
-_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and allows using _Little Navmap_ on Linux or macOS.
+### macOS
 
-_Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting a remote computer.
+Extract the ZIP file and copy `Little Navconnect` to your applications or any other folder. The macOS version can only connect to X-Plane using the *Little Xpconnect* plugin which has to be installed too. The *Little Xpconnect* plugin is included in the *Little Navmap* archive but can also be downloaded separately.
+
+### Linux
+
+Extract the tar archive to any place and use `littlenavconnect.sh` to start the program: `bash ./littlenavconnect.sh`. The Linux version can only connect to X-Plane using the *Little Xpconnect* plugin which has to be installed too. The *Little Xpconnect* plugin is included in the *Little Navmap* archive but can also be downloaded separately.
+
+## General {#general}
+
+_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and also allows using _Little Navmap_ to connect remotely to the *Little Xpconnect* X-Plane plugin.
+
+_Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting to a remote computer.
 

@@ -4,9 +4,17 @@
 
 Exits the application. Will ask for confirmation if there are still clients connected.
 
+### Tools -&gt; FSX or Prepar3D / X-Plane {#tools-sim}
+
+Chooses the simulator connection and is also available on the toolbar.
+
 ### Tools -&gt; Reset Messages {#tools-reset-messages}
 
 This will re-enable all dialogs that were disabled by clicking `Do not show this dialog again` or similar messages.
+
+### Tools -&gt; Toolbar {#tools-toolbar}
+
+Shows or hides the toolbar.
 
 ### ![Quit](../images/icons/settings.png "Quit") Tools -&gt; Options {#tools-options}
 
@@ -22,7 +30,7 @@ Opens the `Options` dialog which has three settings:
 
   `[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.`
 
-* `Fetch AI or multiplayer aircraft` and `Fetch AI or multiplayer ships`: Disables fetching of AI vehicles and the transfer across the network. This can be useful for performance reasons if you use large amounts of AI but do not want to see it in _Little Navmap_.
+* `Fetch AI or multiplayer aircraft` and `Fetch AI or multiplayer ships`: Disables fetching of AI vehicles and the transfer across the network. This can be useful for performance reasons if you use large amounts of AI but do not want to see it in _Little Navmap_. Note that ship AI is not available on X-Plane.
 
 * `Hide hostname and IP in log window`: Check this option to disable printing of hostname and IP address on startup. This can be useful for streaming sessions where _Little Navconnect_ window is visible to others.
 
@@ -30,15 +38,19 @@ Opens the `Options` dialog which has three settings:
 
 _**Picture above:** Little Navconnect Options Dialog with default settings._
 
-#### ![Help](../images/icons/help.png "Help") Help Menu -&gt; Contents {#help-menu-contents}
+#### ![Help](../images/icons/help.png "Help") Help Menu -&gt; Contents \(Online\) {#help-menu-contents}
 
-Shows this help in your default web browser.
+Shows the online help in your default web browser.
+
+#### ![Help](../images/icons/help.png "Help") Help Menu -&gt; Contents \(Offline, PDF\) {#help-menu-contents-offline}
+
+Shows the offline help PDF document in your default PDF viewer.
 
 #### ![About](../images/icons/navconnect.png "About") Help Menu -&gt; About Little Navconnect {#help-menu-about-little-navconnect}
 
 Shows version and revision number for _Little Navconnect_, also contains links to the configuration file, log file and the author's e-mail addresses.
 
-#### ![About Qt](../images/icons/about.png "About Qt") Help Menu -&gt; About Qt {#help-menu-about-qt}
+#### ![About Qt](../images/icons/qticon.png "About Qt") Help Menu -&gt; About Qt {#help-menu-about-qt}
 
 Information about the [Qt application framework](https://www.qt.io) that is used by _Little Navconnect_.
 
