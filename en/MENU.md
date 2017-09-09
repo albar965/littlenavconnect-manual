@@ -6,7 +6,7 @@ Exits the application. Will ask for confirmation if there are still clients conn
 
 ### Tools -&gt; FSX or Prepar3D / X-Plane {#tools-sim}
 
-Chooses the simulator connection and is also available on the toolbar.
+Chooses the simulator connection. These functions are also available on the toolbar.
 
 ### Tools -&gt; Reset Messages {#tools-reset-messages}
 
