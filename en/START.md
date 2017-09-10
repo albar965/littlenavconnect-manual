@@ -4,7 +4,14 @@
 
 `Highlighted text` is used to denote window, menu, button, file or directory names.
 
-*Little Navconnect* is a 32-bit application and was tested with Windows 7, Windows 8, Windows 10 (32-bit and 64-bit), macOS Sierra and Ubuntu Linux.
+*Little Navconnect* for Windows is a 32-bit application and was tested with Windows 7, Windows 8, Windows 10 \(32-bit and 64-bit\). 
+
+The macOS and Linux versions are both 64-bit and were tested with macOS Sierra and Ubuntu Linux.
+
+### Updating
+Delete all installed files of a previous _Little Navconnect_ version before installing a new version. All files from the previous ZIP can be deleted since settings are stored in separate directories. In any case do not merge the installation directories.
+
+There is no need to delete the old settings directory. The program is written in a way that it can always work with old setting files.
 
 ### Windows
 
@@ -16,12 +23,6 @@ Extract the Zip archive into a folder like `c:\Own Programs\Little Navconnect`. 
 
 In some cases you have to install the [Update for Visual C\+\+ 2013 and Visual C\+\+ Redistributable Package](https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package). Install both 32 and 64 bit versions.
 Usually this is already installed since many other programs require it.
-
-#### Installing over a previous Release
-
-It is recommended to delete the old installation directory of _Little Navconnect_. You can also install a newer version into another directory but do not merge the installation directories.
-
-Anyway, no settings are a stored in the installation directory. Therefore it is safe to remove it.
 
 #### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
 
@@ -35,15 +36,27 @@ You might have to install an older version of SimConnect if you use _Prepar3D_ o
 
 ### macOS
 
-Extract the ZIP file and copy `Little Navconnect` to your applications or any other folder. The macOS version can only connect to X-Plane using the *Little Xpconnect* plugin which has to be installed too. The *Little Xpconnect* plugin is included in the *Little Navmap* archive but can also be downloaded separately.
+Extract the ZIP file and copy the `Little Navconnect` app to `Applications` or any other folder. 
 
 ### Linux
 
-Extract the tar archive to any place and use `littlenavconnect.sh` to start the program: `bash ./littlenavconnect.sh`. The Linux version can only connect to X-Plane using the *Little Xpconnect* plugin which has to be installed too. The *Little Xpconnect* plugin is included in the *Little Navmap* archive but can also be downloaded separately.
+Extract the tar archive to any place and use the `littlenavconnect.sh` shell script to start the program from a terminal: 
+
+`bash ./littlenavconnect.sh`
+
+### X-Plane
+
+*Little Navconnect* can only connect to X-Plane using the *Little Xpconnect* X-Plane plugin which has to be installed too. 
+
+The *Little Xpconnect* plugin is included in the *Little Navmap* archive but can also be downloaded separately. See the included `README.txt` in the `Little Xpconnect` folder for installation instructions.
+
+The plugin is 64-bit only and is available for Windows, macOS and Linux. 
 
 ## General {#general}
 
 _Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and also allows using _Little Navmap_ to connect remotely to the *Little Xpconnect* X-Plane plugin.
 
 _Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting to a remote computer.
+
+For X-Plane you need the _Little Xpconnect_ plugin.
 
