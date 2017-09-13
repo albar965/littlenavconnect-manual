@@ -1,5 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
+* [Acknowledgments](ACKNOWLEDGMENTS.md)
+* [Donations](DONATIONS.md)
 * [Installation](START.md)
 * [General](START.md#general)
 * [Usage](USAGE.md)

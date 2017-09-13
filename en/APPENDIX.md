@@ -36,20 +36,6 @@ There is one configuration file for this program:
 
 The configuration files are stored in `$HOME/.config/ABarthel` on macOS and Linux. Log files are stored in `/tmp` on Linux and in `/var/folders` on macOS.
 
-## Acknowledgments {#acknowledgments}
-
-A big thank-you for all people supporting me throughout the beta phase, sending me their log files, screen shots, friendly messages and more.
-
-A big Thank you! to Paul Watts for his support, for testing, tips and links to incredible tools and for all his work on the manual.
-
-Special thanks to Roberto S. from Switzerland for his valuable input and testing efforts.
-
-Another big Danke! to Marc from Germany for all his ideas and endless bug reports.
-
-Thanks to all in the forums who supported me and gave invaluable feedback during the public beta:
-
-[AVSIM](http://www.avsim.com), [SimOuthouse](http://www.sim-outhouse.com), [FlightX.net](http://flightx.net) and [FSDeveloper.com](http://www.fsdeveloper.com).
-
 ## License {#license}
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.

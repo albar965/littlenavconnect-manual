@@ -2,15 +2,7 @@
 
 **Version 1.6**
 
-_Little Navconnect_ is a small free open source application that acts as an agent connecting Little Navmap with a flight simulator. This allows to use Little Navmap on Linux or Mac and saves the the pain of setting up remote SimConnect links.
-
----
-
-**Donate to show your appreciation if you like my programs.**
-
-**Spenden Sie, um Ihre Wertschätzung zu zeigen, wenn Ihnen meine Programme gefallen.**
-
-[![Donate](../images/donate.jpg)](https://albar965.github.io/donate.html)
+_Little Navconnect_ is a small free open source application that acts as an agent connecting Little Navmap with a flight simulator like FSX, Prepar3D and X-Plane. This allows to use Little Navmap on Linux or Mac and saves the the pain of setting up remote SimConnect links.
 
 ---
 
