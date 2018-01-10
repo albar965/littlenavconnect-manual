@@ -26,7 +26,7 @@ Ohne das Open Source [Marble](https://marble.kde.org) Widget das es mir erlaubt,
 
 An [Qt application framework](https://www.qt.io) ohne welches ich nicht mal einen einfachen Knopf zeichnen könnte.
 
-Und lasst uns nicht die ganzen Dienste vergessen, die und die Onlinekarten umsonst zur verfügung stellen:
+Und lasst uns nicht die ganzen Dienste vergessen, die und die Onlinekarten kostenlos zur verfügung stellen:
 
 [Stamen Design](http://maps.stamen.com), [MapTiles](http://maptiles.xyz), [OpenTopoMap](http://www.opentopomap.org) and [CARTO](https://carto.com/).
 
