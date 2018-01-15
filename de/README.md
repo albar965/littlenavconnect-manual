@@ -3,7 +3,7 @@
 
 **Version 1.8**
 
-_Little Navconncet_ ist ein kleines OpenSource-Programm das als Brücke zwischen Little Navmap und einem Flugsimulator wie FSX, Prepar3D und X-Plane dient. Dies erlaubt die Benutzung von Little Navmap auf Linux oder Mac ohne mühevolles einrichten von SimConnect-Verbindungen.
+_Little Navconnect_ ist ein Open Source-Programm das als Brücke zwischen _Little Navmap_ und einem Flugsimulator, wie FSX, Prepar3D und X-Plane dient. Dies erlaubt die Benutzung von _Little Navmap_ unter Linux oder macOS ohne mühevolles Einrichten von SimConnect-Verbindungen.
 
 ---
 
