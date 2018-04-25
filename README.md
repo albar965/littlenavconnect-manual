@@ -2,6 +2,10 @@
 
 * [Little Navconnect User Manual](en/README.md)
 
+# French
+
+* [Little Navconnect User Manual](fr/README.md)
+
 # Italian
 
 * [Little Navconnect User Manual](/it/README.md) \(Work in progress\)
