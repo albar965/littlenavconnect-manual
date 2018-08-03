@@ -18,7 +18,7 @@ Shows or hides the toolbar.
 
 ### ![Quit](../images/icons/settings.png "Quit") Tools -&gt; Options {#tools-options}
 
-Opens the `Options` dialog which has three settings:
+Opens the `Options` dialog which has the following settings:
 
 * `Update Time Interval`: Allowed range is 50 milliseconds up to 1 second. _Little Navconnect_ fetches data from Flight Simulator and sends it to all clients \(i.e. _Little Navmap_\) using this time interval. Increase this value if you get a warning message like shown below:
 
