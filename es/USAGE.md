@@ -6,7 +6,7 @@ Recibirá un mensaje de error si el protocolo de _Little Navmap_, _Little Navcon
 
 Instale  _Little Navconnect_ en la computadora que use para volar. Inicielo y tome nota del mensaje que aparece en la ventana de registro. Solo necesitará los valores coloreados. Puede usar la direccion IP o el nombre del servidor.
 
-El programa se conectará automaticamente al simulador de vuelo mediante SimConenect, si lo encuentra.
+El programa se conectará automaticamente al simulador de vuelo mediante SimConnect, si lo encuentra.
 Puede cambiar la conexión a X-Plane y se conectará automaticamente al plugin *Little Xpconnect* , si X-Plane está ejecutándose. Si no se encuentra ningún simulador la conexión se reintentará a intervalos de 10 segundos.
 
 _Little Navconnect_ puede imprimir múltiples direcciones IP, o nombres de servidores, dependiendo de su configuración de red. Esto puede suceder si está conectado a Ethernet, o usando una  LAN inalámbrica, por ejemplo. Tiene que probar todas las direcciones si no está seguro de cual utilizar.
