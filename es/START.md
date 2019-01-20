@@ -35,7 +35,7 @@ Puede ser necesario instalar una versión anterior de SimConnect, si usa _Prepar
 
 ### macOS
 
-Extraiga el archivo ZIP y copie la aplicación `Little Navconnect` en `Applications` ó en cualquier otra carpeta.
+Extraiga el archivo ZIP y copie la aplicación `Little Navconnect` en `Applications` o en cualquier otra carpeta.
 
 ### Linux
 
