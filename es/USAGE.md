@@ -9,7 +9,7 @@ Instale  _Little Navconnect_ en la computadora que use para volar. Inicielo y to
 El programa se conectará automáticamente al simulador de vuelo mediante SimConenect, si lo encuentra.
 Puede cambiar la conexión a X-Plane y se conectará automáticamente al plugin *Little Xpconnect*, si X-Plane está ejecutándose. Si no se encuentra ningún simulador, la conexión se reintentará a intervalos de 10 segundos.
 
-_Little Navconnect_ puede imprimir múltiples direcciones IP, o nombres de servidores, dependiendo de su configuración de red. Esto puede suceder si está conectado a Ethernet, o usando una  LAN inalámbrica, por ejemplo. Tiene que probar todas las direcciones si no está seguro de cual utilizar.
+_Little Navconnect_ puede imprimir múltiples direcciones IP, o nombres de servidores, dependiendo de su configuración de red. Esto puede suceder si está conectado a Ethernet, o usando una LAN inalámbrica, por ejemplo. Tiene que probar todas las direcciones si no está seguro de cual utilizar.
 
 ![Little Navconnect](../images/littlenavconnect.jpg "Little Navconnect")
 
@@ -22,7 +22,7 @@ Cambie el puerto en el cuadro de dialogo `Opciones` si aparece un mensaje de err
 ### Cliente o Computadora Remota
 
 2.  Inicie _Little Navmap_ en la computadora cliente.
-3.  Abra el dialogo de conexión en _Little Navmap_ seleccionando `Menu Principal` -> `Herramientas` -> `Conexión Simulador de Vuelo`.
+3.  Abra el diálogo de conexión en _Little Navmap_ seleccionando `Menu Principal` -> `Herramientas` -> `Conexión Simulador de Vuelo`.
 
     ![Little Navmap Connect Dialog](../images/connect.jpg "Little Navmap Connect Dialog")
 
