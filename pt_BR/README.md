@@ -6,7 +6,7 @@ _Little Navconnect_ é um pequeno aplicativo gratuito de código aberto que atua
 
 ---
 
-Mais sobre o meu projeto em [**GitHub**](https://albar965.github.io).
+Mais sobre o meu projeto em [**www.littlenavmap.org**](https://www.littlenavmap.org).
 
 Copyright 2015-2018 Alexander Barthel
 

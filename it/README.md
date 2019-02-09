@@ -6,7 +6,7 @@ _Little Navconnect_ is a small free open source application that acts as an agen
 
 ---
 
-More about my projects at [**GitHub**](https://albar965.github.io).
+More about my projects at [**www.littlenavmap.org**](https://www.littlenavmap.org).
 
 Copyright 2015-2017 Alexander Barthel
 

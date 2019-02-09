@@ -7,7 +7,7 @@ _Little Navconnect_ ist ein Open Source-Programm das als Brücke zwischen _Littl
 
 ---
 
-Mehr über meine Projekte auf [**GitHub**](https://albar965.github.io).
+Mehr über meine Projekte auf [**www.littlenavmap.org**](https://www.littlenavmap.org).
 
 Copyright 2015-2017 Alexander Barthel
 
