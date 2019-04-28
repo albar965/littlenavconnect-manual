@@ -2,7 +2,7 @@
 
 ### ![Quit](../images/icons/application-exit.png "Quit") Archivo -&gt; Salir {#file-quit}
 
-Salir de la aplicación. Se le pedirá confirmación si hay clientes conectados.
+Salir de la aplicación. Se le pedirá una confirmación si hay clientes conectados.
 
 ### Herramientas -&gt; FSX o Prepar3D / X-Plane {#tools-sim}
 
@@ -10,23 +10,23 @@ Escoja la conexión del simulador. Estas funciones también están disponibles e
 
 ### Herramientas -&gt; Rehabilitar Mensajes {#tools-reset-messages}
 
-Esto volverá a habilitar todos los cuadros de dialogo que estuviesen deshabilitados pulsando `No mostrar nuevamente este cuadro de dialogo`, o mensajes similares.
+Esto volverá a habilitar todos los cuadros de diálogo que estuviesen deshabilitados pulsando `No mostrar nuevamente este cuadro de diálogo`, o mensajes similares.
 
 ### Herramientas -&gt; Barra de Herramientas {#tools-toolbar}
 
-Muestra o esconde la barra de herramientas.
+Muestra o esconde la Barra de herramientas.
 
 ### ![Quit](../images/icons/settings.png "Quit") Herramientas -&gt; Opciones {#tools-options}
 
-Abre el cuadro de dialogo  `Opciones` que tiene tres ajustes:
+Abre el cuadro de diálogo  `Opciones` que tiene tres ajustes:
 
-* `Actualizar el intervalo de tiempo`: Permite rangos entre 50 milisegundos hasta 1 segundo.  _Little Navconnect_  obtiene datos del Simulador de Vuelo, y los envia a todos los clientes (es decir a _Little Navmap_) usando este intervalo de tiempo. Aumente este valor si recibe un mensaje como el que se muestra abajo:
+* `Actualizar el intervalo de tiempo`: Permite rangos entre 50 milisegundos hasta 1 segundo.  _Little Navconnect_  obtiene datos del Simulador de Vuelo, y los envía a todos los clientes (es decir a _Little Navmap_) usando este intervalo de tiempo. Aumente este valor si recibe un mensaje como el que se muestra abajo:
 
-  `[2016-07-27 16:45:35] Caidos más de 50 paquetes. Razón: falta de respuesta.Incremente el intervalo de tiempo de actualización.`
+  `[2016-07-27 16:45:35] Caídos más de 50 paquetes. Razón: falta de respuesta. Incremente el intervalo de tiempo de actualización.`
 
-  Los paquetes caídos también pueden aparecer si _Little Navmap_ no puede responder debido a que un cuadro de dialogo esté abierto.
+  Los paquetes caídos también pueden aparecer si _Little Navmap_ no puede responder debido a que un cuadro de diálogo está abierto.
 
-* `Puerto de red`: Normalmente está por defecto. Cambie este valor sólo si otra aplicación ocupa este puerto y produce un mensaje de error como el que se muestra debajo, al arrancar  _Little Navconnect_:
+* `Puerto de red`: Normalmente está por defecto. Cambie este valor sólo si otra aplicación ocupa este puerto y produce un mensaje de error como el que se muestra debajo, al arrancar _Little Navconnect_:
 
   `[2016-07-27 16:45:35] Imposible iniciar el servidor: El valor de enlace está en uso.`
 
@@ -40,11 +40,11 @@ _**Figura Superior:** Little Navconnect - Opciones de diálogo con parámetros p
 
 #### ![Help](../images/icons/help.png "Help") Menú de Ayuda -&gt; Contenidos \(Online\) {#help-menu-contents}
 
-Muestra la ayuda online en su navegador por defecto.
+Muestra la ayuda en línea en su navegador por defecto.
 
 #### ![Help](../images/icons/help.png "Help") Menú de Ayuda -&gt; Contenidos \(Offline, PDF\) {#help-menu-contents-offline}
 
-Muestra la ayuda offline como documento PDF en su visor PDF por defecto.
+Muestra la ayuda sin conexión como documento PDF en su visor PDF por defecto.
 #### ![About](../images/icons/navconnect.png "About") Menú de Ayuda -&gt; Acerca de Little Navconnect {#help-menu-about-little-navconnect}
 
 Muestra la versión y número de revisión de _Little Navconnect_, también contiene enlaces al archivo de configuración, archivos log, y correo electrónico del autor.
