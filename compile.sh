@@ -2,6 +2,8 @@
 
 PREFIX=littlenavconnect
 
+gitbook build
+
 gitbook pdf
 
 for i in book_*.pdf ; do mv $i "_book/${PREFIX}_${i}" ;done
