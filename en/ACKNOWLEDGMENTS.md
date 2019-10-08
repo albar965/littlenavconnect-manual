@@ -32,7 +32,5 @@ Let's not forget about all the services that provide us all the online maps for 
 
 [Stamen Design](http://maps.stamen.com), [OpenTopoMap](https://www.opentopomap.org) and [CARTO](https://carto.com/).
 
-A thank-you to the [GIScience / Geoinformatics Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html) of Heidelberg University for kindly giving me permission to use their map [OpenMapSurfer](http://korona.geog.uni-heidelberg.de).
-
 And last but not least: If there were no [OpenStreetMap](https://www.openstreetmap.org) and its thousands of contributors none of us would have any maps at all.
 

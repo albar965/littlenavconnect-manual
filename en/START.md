@@ -1,10 +1,10 @@
 ## Installation {#installation}
 
-**Note that *Little Navconnect* is bundled with the *Little Navmap* download.**
+**Note that *Little Navconnect* is bundled with the _Little Navmap_ download.**
 
 `Highlighted text` is used to denote window, menu, button, file or directory names.
 
-*Little Navconnect* for Windows is a 32-bit application and was tested with Windows 7, Windows 8, Windows 10 \(32-bit and 64-bit\).
+*Little Navconnect* for Windows is a 32-bit application and was tested with Windows 7, Windows 8, Windows 10 (32-bit and 64-bit).
 
 The macOS and Linux versions are both 64-bit and were tested with macOS Sierra and Ubuntu Linux.
 
@@ -47,13 +47,13 @@ Extract the tar archive to any place and use the `littlenavconnect.sh` shell scr
 
 *Little Navconnect* can only connect to X-Plane using the *Little Xpconnect* X-Plane plugin which has to be installed too.
 
-The *Little Xpconnect* plugin is included in the *Little Navmap* archive but can also be downloaded separately. See the included `README.txt` in the `Little Xpconnect` folder for installation instructions.
+The *Little Xpconnect* plugin is included in the _Little Navmap_ archive but can also be downloaded separately. See the included `README.txt` in the `Little Xpconnect` folder for installation instructions.
 
 The plugin is 64-bit only and is available for Windows, macOS and Linux.
 
 ## General {#general}
 
-_Little Navconnect_ acts as an agent that connects [Little Navmap](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and also allows using _Little Navmap_ to connect remotely to the *Little Xpconnect* X-Plane plugin.
+_Little Navconnect_ acts as an agent that connects [_Little Navmap_](https://albar965.github.io/littlenavmap.html) running on a remote computer with a flight simulator. This saves the complexity of setting up a remote SimConnect link and also allows using _Little Navmap_ to connect remotely to the *Little Xpconnect* X-Plane plugin.
 
 _Little Navmap_ can connect to the flight simulator directly when running on the same computer as the flight simulator therefore the _Little Navconnect_ agent is only needed for connecting to a remote computer.
 

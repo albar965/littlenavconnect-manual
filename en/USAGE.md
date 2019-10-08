@@ -13,7 +13,7 @@ _Little Navconnect_ can print multiple IP addresses or hostnames depending on yo
 
 ![Little Navconnect](../images/littlenavconnect.jpg "Little Navconnect")
 
-_**Picture above:** Little Navconnect is running and waiting for a flight simulator. The _`FSX or Prepar3D`_ and _`X-Plane`_ buttons are not shown on macOS and Linux or if SimConnect is not available._
+_**Picture above:** Little Navconnect is running and waiting for a flight simulator. The `FSX or Prepar3D` and `X-Plane` buttons are not shown on macOS and Linux or if SimConnect is not available._
 
 Change the port in the `Options` dialog if you see an error message like shown below:
 
