@@ -21,7 +21,7 @@ Do not extract the archive into the folder `c:\Program Files\` or `c:\Program Fi
 
 Extract the Zip archive into a folder like `c:\Own Programs\Little Navconnect`. Then start the program by double-clicking `littlenavconnect.exe`.
 
-I recommend to install the [Visual C++ Runtime Installer (All-In-One) v56](https://www.majorgeeks.com/files/details/visual_c_runtime_installer.html) package from MajorGeeks.Com if needed.
+I recommend to install the [Visual C++ Runtime Installer (All-In-One) v56](https://www.majorgeeks.com/files/details/visual_c_runtime_installer.html) package from MajorGeeks.Com but only if you get errors when starting _Little Navconnect_.
 
 #### Other Simulators than FSX SP2 {#other-simulators-than-fsx-sp2}
 
