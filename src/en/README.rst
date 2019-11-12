@@ -1,0 +1,25 @@
+.. _little-navconnect-user-manual:
+
+|Little Navconnect| Little Navconnect User Manual
+=================================================
+
+**Version 2.4**
+
+*Little Navconnect* is a small free open source application that acts as
+an agent connecting *Little Navmap* with a flight simulator like FSX,
+Prepar3D and X-Plane. This allows to use *Little Navmap* on Linux or Mac
+and saves the pain of setting up remote SimConnect links.
+
+--------------
+
+More about my projects at
+`www.littlenavmap.org <https://www.littlenavmap.org>`__.
+
+Copyright 2015-2019 Alexander Barthel
+
+--------------
+
+Last updated {{ gitbook.time }}.
+
+.. |Little Navconnect| image:: ../images/navconnect.svg
+
