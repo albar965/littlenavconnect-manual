@@ -33,7 +33,6 @@ invaluable feedback during the public beta:
 
 `AVSIM <https://www.avsim.com>`__,
 `SimOuthouse <http://www.sim-outhouse.com>`__,
-`FlightX.net <https://flightx.net/>`__ and
 `FSDeveloper.com <https://www.fsdeveloper.com>`__.
 
 This project and my library
@@ -43,7 +42,7 @@ Wiki <https://www.fsdeveloper.com/wiki>`__. So, here a huge thank-you to
 all the contributors.
 
 Also a thank you to Ed Williams for his `Aviation
-Formulary <http://www.edwilliams.org/avform.htm>`__.
+Formulary <http://www.edwilliams.org/>`__.
 
 Without the open source `Marble <https://marble.kde.org>`__ widget that
 allows me to access and display all the maps I would still be busy doing
