@@ -1,5 +1,11 @@
+Installation
+------------
+
+``Highlighted text`` is used to denote window, menu, button, file or
+directory names.
+
 General
--------
+~~~~~~~~
 
 *Little Navconnect* acts as an agent that connects `Little
 Navmap <https://albar965.github.io/littlenavmap.html>`__ running on a
@@ -14,20 +20,13 @@ computer.
 
 For X-Plane you need the *Little Xpconnect* plugin.
 
-Installation
-------------
-
-**Note that Little Navconnect is bundled with the Little Navmap
-download.**
-
-``Highlighted text`` is used to denote window, menu, button, file or
-directory names.
-
 *Little Navconnect* for Windows is a 32-bit application and was tested
 with Windows 7, Windows 8, Windows 10 (32-bit and 64-bit).
 
 The macOS and Linux versions are both 64-bit and were tested with macOS
 Sierra and Ubuntu Linux.
+
+.. note:: *Little Navconnect* is bundled with the *Little Navmap* download.
 
 Updating
 ~~~~~~~~
@@ -90,10 +89,12 @@ Extract the ZIP file and copy the ``Little Navconnect`` app to
 Linux
 ~~~~~
 
-Extract the tar archive to any place and use the ``littlenavconnect.sh``
-shell script to start the program from a terminal:
+Extract the tar archive to any place and run the executable
+``littlenavconnect`` file to start the program from a terminal:
 
-``bash ./littlenavconnect.sh``
+``./littlenavconnect``
+
+Most file managers will start the program if double-clicked.
 
 X-Plane
 ~~~~~~~

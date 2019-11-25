@@ -1,5 +1,3 @@
-.. _menu:
-
 Menu and Options
 ----------------
 
@@ -77,21 +75,21 @@ Opens the ``Options`` dialog which has the following settings:
 .. _help-menu-contents:
 
 |Help| Help Menu -> Contents (Online)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Shows the online help in your default web browser.
 
 .. _help-menu-contents-offline:
 
 |Help| Help Menu -> Contents (Offline, PDF)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Shows the offline help PDF document in your default PDF viewer.
 
 .. _help-menu-about-little-navconnect:
 
 |About| Help Menu -> About Little Navconnect
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Shows version and revision number for *Little Navconnect*, also contains
 links to the configuration file, log file and the author's e-mail
@@ -100,7 +98,7 @@ addresses.
 .. _help-menu-about-qt:
 
 |About Qt| Help Menu -> About Qt
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Information about the `Qt application framework <https://www.qt.io>`__
 that is used by *Little Navconnect*.

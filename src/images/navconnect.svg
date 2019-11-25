@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg3440"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="navconnect.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="globe2 net.svg">
   <metadata
      id="metadata269">
     <rdf:RDF>
@@ -41,9 +41,9 @@
      inkscape:window-height="896"
      id="namedview267"
      showgrid="false"
-     inkscape:zoom="1.2291667"
-     inkscape:cx="-191.35161"
-     inkscape:cy="-34.192447"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="41.031089"
+     inkscape:cy="17.409971"
      inkscape:window-x="44"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -1903,6 +1903,21 @@
      style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4132);stroke-miterlimit:4;stroke-opacity:1"
      id="path4122"
      d="m 42.975093,23.485534 c 0,10.16582 -8.241178,18.406906 -18.4056,18.406906 -10.165354,0 -18.4060669,-8.241179 -18.4060669,-18.406906 0,-10.165354 8.2407129,-18.4056 18.4060669,-18.4056 10.164422,0 18.4056,8.240246 18.4056,18.4056 l 0,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 81.57216,54.313054 -42.122557,0 c 0.229194,7.375925 0.737938,15.375169 1.106865,23.062753"
+     style="fill:none;stroke:url(#radialGradient2771);stroke-width:0.71043414;stroke-linecap:round;stroke-linejoin:round"
+     id="path2435" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 74.812062,64.273193 -1.495081,0 -0.996721,0 1.495081,0 0.996721,0 z"
+     style="fill:#ffffff;fill-rule:evenodd"
+     id="path7013" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 69.493242,73.780903 c 0,0 9.188615,6.25997 5.949273,6.630012 -3.239343,0.370042 -13.954661,-4.933987 -17.941164,-3.947114 -3.986884,0.986779 5.980419,7.894323 5.980419,7.894323"
+     style="opacity:0.6;fill:none;stroke:url(#linearGradient3079);stroke-width:0.4724358"
+     id="path7502" />
   <g
      id="g4817"
      transform="matrix(2.0243452,0,0,2.0243452,-70.865945,-106.05102)">

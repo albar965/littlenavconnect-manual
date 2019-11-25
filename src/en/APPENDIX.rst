@@ -1,5 +1,8 @@
+Appendix
+---------------------
+
 How to report a Bug
--------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If something goes wrong send me *Little Navconnect*'s log file and
 configuration file which both can be located in the about dialog. My
@@ -24,7 +27,7 @@ or by email and not attach them to forum posts where they are publicly
 visible.
 
 Files
------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Windows
 ~~~~~~~

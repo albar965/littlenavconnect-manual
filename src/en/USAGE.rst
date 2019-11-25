@@ -36,8 +36,10 @@ like shown below:
 
 ``[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.``
 
-Client or Remote Computer
+Remote Computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Also called client or networked computer.
 
 #. Start *Little Navmap* on the client computer.
 #. Open the connection dialog in *Little Navmap* by selecting
@@ -48,7 +50,7 @@ Client or Remote Computer
    Connect dialog with correct values to access the Little Navconnect shown above.
 
 #. Select ``Connect to a remote Flight Simulator``.
-#. Add the value for host name. This can be either the host name or the
+#. Add the value for host name or the
    IP address printed by *Little Navconnect*.
 #. Check the value for the port. ``51968`` is the default value and does
    not need to be changed usually.
@@ -61,7 +63,9 @@ Client or Remote Computer
    window if no flight is loaded yet (i.e. the simulator still shows the
    opening screen).
 
-Note that it sometimes can take a while until an error is shown if you
-used the wrong values for host name or port.
+.. note::
+
+    Note that it sometimes can take a while until an error is shown if you
+    used the wrong values for host name or port.
 
 
