@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Little Navconnect User Manual'
+project = u'Little Navconnect'
 copyright = u'2019, Alexander Barthel'
 author = u'Alexander Barthel'
 
@@ -131,7 +131,7 @@ html_css_files = [
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Little Navconnect User Manual'
+htmlhelp_basename = 'Little Navconnect'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -188,7 +188,7 @@ texinfo_documents = [
 # -- Options for Epub output -------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = 'Little Navconnect User Manual'
+epub_title = 'Little Navconnect'
 
 epub_copyright  = 'Alexander Barthel and Contributors'
 
@@ -196,7 +196,7 @@ epub_publisher  = 'Alexander Barthel'
 
 epub_author= 'Alexander Barthel and Contributors'
 
-epub_description  = 'Little Navconnect User Manual'
+epub_description  = 'Little Navconnect'
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
