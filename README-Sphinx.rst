@@ -21,7 +21,7 @@ BTW: This is a reStructuredText document.
 Examples
 ----------
 
-The Sphinx generated English documentation for *Little Navmap* can be accessed here:
+The Sphinx generated English documentation for *Little Navconnect* can be accessed here:
 
 * `HTML <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/en/>`_
 * `PDF A4 <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/littlenavconnect_book_en_a4.pdf>`_
