@@ -14,7 +14,7 @@ note of the message that is printed in the logging window. You only need
 the colored values. You can use the IP address or the host name.
 
 The program will automatically connect to the flight simulator using
-SimConnect, if found. You can change the connection to X-Plane and it
+the included SimConnect. You can change the connection to X-Plane and it
 will connect automatically to the *Little Xpconnect* plugin if X-Plane
 is running. If no simulator was found it will retry in 10 second
 intervals.

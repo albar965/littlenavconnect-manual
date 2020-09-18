@@ -18,6 +18,9 @@ Patbest. Thank you!
 Thanks to all beta testers for their effort, patience and ideas: Barry,
 Brian, Gérard, John, Remi and Sam.
 
+A thank you! to Andrea Deplano PVI, Italian virtual pilots for the
+Italian translation.
+
 Another big Danke! to Marc from Germany for all his great ideas and
 endless bug reports.
 

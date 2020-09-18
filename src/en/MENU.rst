@@ -56,6 +56,11 @@ Opens the ``Options`` dialog which has the following settings:
 
    ``[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.``
 
+-  ``AI fetch radius``: Changes the radius around the user aircraft that is used to include AI or multiplayer aircraft.
+   Using higher values with a lot of AI or multiplayer aircraft can cause stutters in the simulator.
+   The unit is always nautical miles (1 NM equals to 1.852 km).
+   Note that FSX, P3D and MSFS allow a maxium of 105 NM.
+
 -  ``Fetch AI or multiplayer aircraft`` and
    ``Fetch AI or multiplayer ships``: Disables fetching of AI vehicles
    and the transfer across the network. This can be useful for

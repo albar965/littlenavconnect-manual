@@ -59,26 +59,14 @@ v56 <https://www.majorgeeks.com/files/details/visual_c_runtime_installer.html>`_
 package from MajorGeeks.Com but only if you get errors when starting
 *Little Navconnect*.
 
-Other Simulators than FSX SP2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SimConnect for FSX, P3D and MSFS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This program was compiled using plain FSX SP2 (no Acceleration)
+This program comes with a FSX SP2 (no Acceleration)
 SimConnect version 10.0.61259.0.
 
-You might have to install an older version of SimConnect if you use
-*Prepar3D* or *FSX Steam Edition*. If not sure about this simply try
-*Little Navconnect* out. If it fails with an error message follow the
-instructions below:
-
-**Prepar3D:** In the same directory as ``Prepar3D.exe`` is a
-``redist\Interface`` directory (normally
-``C:\Program Files (x86)\Lockheed Martin\Prepar3D v3\redist\Interface``).
-There are multiple legacy versions of SimConnect available. You have to
-install ``FSX-SP2-XPACK.msi`` for *Little Navconnect*.
-
-**FSX Steam Edition:** The installation adds the folder
-``C:\Program Files (x86)\Steam\SteamApps\common\FSX\SDK\Core Utilities Kit\SimConnect SDK\LegacyInterfaces``
-where you can find the legacy SimConnect interfaces.
+There is no need to install the FSX SP2 SimConnect on the computer since
+*Little Navconnect* uses the included ``SimConnect.dll``.
 
 macOS
 ~~~~~
