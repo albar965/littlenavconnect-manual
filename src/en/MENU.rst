@@ -39,8 +39,8 @@ Shows or hides the toolbar.
 
 Opens the ``Options`` dialog which has the following settings:
 
--  ``Update Time Interval``: Allowed range is 50 milliseconds up to 1
-   second. *Little Navconnect* fetches data from Flight Simulator and
+-  ``Update Time Interval``: Allowed range is 50 milliseconds up to 5
+   seconds. *Little Navconnect* fetches data from the flight simulator and
    sends it to all clients (i.e. *Little Navmap*) using this time
    interval. Increase this value if you get a warning message like shown
    below:

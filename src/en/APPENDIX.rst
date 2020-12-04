@@ -37,7 +37,7 @@ in the directory:
 
 ``C:\Users\YOURUSERNAME\AppData\Local\Temp``
 
-The program keeps three log files and rotates these on each startup. So
+The program keeps three log files and rotates these depending on size. Therefore,
 you can find up to three logs:
 
 ``abarthel-little_navconnect.log``, ``abarthel-little_navconnect.log.1``
