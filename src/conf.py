@@ -23,10 +23,11 @@ project = u'Little Navconnect'
 copyright = u'2019-2020, Alexander Barthel'
 author = u'Alexander Barthel'
 
+# VERSION_NUMBER
 # The short X.Y version
 version = u'2.6'
 # The full version, including alpha/beta/rc tags
-release = u'2.6.5.rc1'
+release = u'2.6.6'
 
 nitpicky = True
 
