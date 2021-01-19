@@ -23,11 +23,11 @@ Examples
 
 The Sphinx generated English documentation for *Little Navconnect* can be accessed here:
 
-* `HTML <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/en/>`_
-* `PDF A4 <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/littlenavconnect_book_en_a4.pdf>`_
-* `PDF US Letter <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/littlenavconnect_book_en_letter.pdf>`_
-* `ePUB <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/littlenavconnect_book_en.epub>`_
-* `MOBI <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.5/littlenavconnect_book_en.mobi>`_
+* `HTML <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.6/en/>`_
+* `PDF A4 <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.6/littlenavconnect_book_en_a4.pdf>`_
+* `PDF US Letter <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.6/littlenavconnect_book_en_letter.pdf>`_
+* `ePUB <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.6/littlenavconnect_book_en.epub>`_
+* `MOBI <https://www.littlenavmap.org/manuals/littlenavconnect/develop/2.6/littlenavconnect_book_en.mobi>`_
 
 
 Why Sphinx?
