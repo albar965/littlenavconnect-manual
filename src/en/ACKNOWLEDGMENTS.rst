@@ -30,6 +30,3 @@ invaluable feedback during the public beta:
 `AVSIM <https://www.avsim.com>`__,
 `SimOuthouse <http://www.sim-outhouse.com>`__,
 `FSDeveloper.com <https://www.fsdeveloper.com>`__.
-
-No `Qt application framework <https://www.qt.io>`__ and I could not even
-draw a simple button.

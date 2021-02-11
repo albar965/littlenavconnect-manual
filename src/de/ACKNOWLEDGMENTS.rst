@@ -28,6 +28,3 @@ wertvolle Rückmeldungen während der Öffentlichen Beta-Phase gaben:
 `AVSIM <https://www.avsim.com>`__,
 `SimOuthouse <http://www.sim-outhouse.com>`__,
 `FSDeveloper.com <https://www.fsdeveloper.com>`__.
-
-An `Qt application framework <https://www.qt.io>`__ ohne welches ich
-nicht mal einen einfachen Knopf zeichnen könnte.
