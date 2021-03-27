@@ -16,6 +16,8 @@ Fehler zu finden.
 Die Französische Übersetzung des Programms wurde von Patrick JUNG alias
 Patbest durchgeführt. Danke!
 
+Vielen Dank and John Liu und Tong Hui für die chinesische Übersetzung.
+
 Danke an die Beta-Tester für ihre Mühe, Geduld und Ideen: Barry, Brian,
 Gérard, John, Remi und Sam.
 

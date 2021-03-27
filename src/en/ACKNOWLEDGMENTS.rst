@@ -18,6 +18,8 @@ Patbest. Thank you!
 Thanks to all beta testers for their effort, patience and ideas: Barry,
 Brian, Gérard, John, Remi and Sam.
 
+Big thanks for John Liu and Tong Hui for the Chinese user interface translation.
+
 A thank you! to Andrea Deplano PVI, Italian virtual pilots for the
 Italian translation.
 
