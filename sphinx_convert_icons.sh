@@ -1,12 +1,28 @@
 #!/bin/bash -x
 
-# Converts all Markdown scripts to reST and stores the files
-# in ``src/XX`` where ``XX`` is the used language code. Takes a list of language codes as a parameter.
-# **Do not run this for the English branch which is already finished.**
+# Converts all icons from the main program from SVG to PNG and renames them to fit into a flat hierarchy
 
 set -e
 
+BUILD=../build-littlenavconnect-manual
+DEPLOY="../deploy/Little Navconnect Manual"
+
+# Convert SVG icons to PNG in build folder
+mkdir -pv "${BUILD}/images/icons"
+for i in "$APROJECTS/littlenavconnect/resources/icons/"*.svg
+do
+  OUT="${BUILD}"/images/icons/$(basename "${i}" .svg).png
+  echo converting "${i}" to "${OUT}"
+  inkscape "${i}" -o "${OUT}" -w 32 -h 32
+done
+
 # Copy and rename images to get a flat folder
 mkdir -pv src/images
-for i in images/*.* ; do cp -v $i src/images/ ; done
-for i in images/icons/* ; do cp -v $i src/images/icon_$(basename $i) ; done
+
+# Rename icons to have a flat structure
+for i in "${BUILD}/images/icons/"*
+do
+  cp -v "${i}" src/images/icon_$(basename $i)
+done
+
+
