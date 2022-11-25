@@ -20,12 +20,6 @@ computer.
 
 For X-Plane you need the *Little Xpconnect* plugin.
 
-*Little Navconnect* for Windows is a 32-bit application and was tested
-with Windows 7, Windows 8, Windows 10 (32-bit and 64-bit).
-
-The macOS and Linux versions are both 64-bit and were tested with macOS
-Sierra and Ubuntu Linux.
-
 .. note:: *Little Navconnect* is bundled with the *Little Navmap* download.
 
 Updating
@@ -38,6 +32,19 @@ do not merge the installation directories.
 
 There is no need to delete the old settings directory. The program is
 written in a way that it can always work with old setting files.
+
+Windows Builds
+~~~~~~~~~~~~~~~~~~~
+
+There are two builds of Little Navmap and Little Navconnect for Windows available now:
+
+-  **Windows 64-bit:** For MSFS and all X-Plane versions.
+-  **Windows 32-bit:** For FSX and Prepar3D.
+
+Note that *Little Navmap* and all related programs are interoperable across the network (*Little Navmap* and *Little Navconnect*)
+as well as the X-Plane plugin (*Little Navmap*, *Little Navconnect* and *Little Xpconnect*).
+
+You can see the Windows build type in the about dialog and in the window title bar (``64-bit`` or ``32-bit``).
 
 Windows
 ~~~~~~~

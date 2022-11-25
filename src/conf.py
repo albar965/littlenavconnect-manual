@@ -27,7 +27,7 @@ author = u'Alexander Barthel'
 # The short X.Y version
 version = u'2.8'
 # The full version, including alpha/beta/rc tags
-release = u'2.8.1.beta'
+release = u'2.8.3.beta'
 
 nitpicky = True
 
@@ -44,7 +44,7 @@ nitpicky = True
 extensions = [ ]
 
 # Add any paths that contain templates here, relative to this directory.
-#templates_path = ['_templates']
+templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -86,7 +86,7 @@ html_theme_options = {
 #    'canonical_url': '',
     'logo_only': False,
     'display_version': True,
-    'prev_next_buttons_location': 'none',
+    'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
 
     # Toc options
@@ -105,6 +105,8 @@ html_show_sphinx = False
 html_show_sourcelink = False
 html_copy_source = False
 #html_add_permalinks=False
+html_show_copyright = False
+html_title='Little Navmap User Manual'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
