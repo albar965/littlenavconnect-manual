@@ -20,7 +20,7 @@ Brian, Gérard, John, Remi and Sam.
 
 Big thanks for John Liu and Tong Hui for the Chinese user interface translation.
 
-A thank you! to Andrea Deplano PVI, Italian virtual pilots for the
+A thank you! to Flavio Borgna and Andrea Deplano PVI, Italian virtual pilots for the
 Italian translation.
 
 Another big Danke! to Marc from Germany for all his great ideas and

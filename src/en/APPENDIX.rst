@@ -37,11 +37,8 @@ in the directory:
 
 ``C:\Users\YOURUSERNAME\AppData\Local\Temp``
 
-The program keeps three log files and rotates these depending on size. Therefore,
-you can find up to three logs:
-
-``abarthel-little_navconnect.log``, ``abarthel-little_navconnect.log.1``
-and ``abarthel-little_navconnect.log.2``.
+The program keeps two log files and rotates these depending on size. Therefore,
+you can find up to two log files ``abarthel-little_navconnect.log`` and ``abarthel-little_navconnect.log.1``.
 
 All configuration files of my programs for Windows 7/8/10 are typically
 stored in the directory:
