@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Little Navconnect'
-copyright = u'2019-2022, Alexander Barthel'
+copyright = u'2019-2023, Alexander Barthel'
 author = u'Alexander Barthel'
 
 # VERSION_NUMBER
