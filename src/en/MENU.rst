@@ -1,100 +1,120 @@
 Menu and Options
 ----------------
 
+File Menu
+~~~~~~~~~~~~~~~~~~~~
+
 .. _file-quit:
 
-|Quit| File -> Quit
-~~~~~~~~~~~~~~~~~~~
+|Quit| Quit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Exits the application. Will ask for confirmation if there are still
 clients connected.
 
+Tools Menu
+~~~~~~~~~~~~~~~~~~~~
+
 .. _tools-sim:
 
-Tools -> FSX or Prepar3D / X-Plane
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FSX or Prepar3D, MSFS or X-Plane
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Chooses the simulator connection. These functions are also available on
-the toolbar.
+Selects the simulator connection. These functions are also available on
+the toolbar. The menu items depend on operating system and program build.
+
+You will see ``MSFS`` and ``X-Plane`` for for the Windows 64-bit build of *Little Navconnect*.
+``FSX or Prepar3D`` and ``X-Plane`` are shown for For the 32-bit build of *Little Navconnect*.
+
+These menu items are not shown on Linux and macOS since the only connection option is X-Plane.
 
 .. _tools-reset-messages:
 
-Tools -> Reset Messages
-~~~~~~~~~~~~~~~~~~~~~~~
+Reset Messages
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This will re-enable all dialogs that were disabled by clicking
-``Do not show this dialog again`` or similar messages.
-
-.. _tools-toolbar:
-
-Tools -> Toolbar
-~~~~~~~~~~~~~~~~
-
-Shows or hides the toolbar.
+This will re-enable all dialogs that were disabled by clicking the
+``Do not show this dialog again`` button.
 
 .. _tools-options:
 
-|Settings| Tools -> Options
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|Settings| Options
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Opens the ``Options`` dialog which has the following settings:
+Opens the options dialog which allows to adjust connection settings.
 
--  ``Update Time Interval``: Allowed range is 50 milliseconds up to 5
-   seconds. *Little Navconnect* fetches data from the flight simulator and
-   sends it to all clients (i.e. *Little Navmap*) using this time
-   interval. Increase this value if you get a warning message like shown
-   below:
+See chapter :doc:`OPTIONS` for more information.
 
-   ``[2016-07-27 16:45:35] Dropped more than 50 packages. Reason: Missing reply. Increase update time interval.``
+Window Menu
+~~~~~~~~~~~~~~~~~~~~
 
-   Dropped packages can also appear if the *Little Navmap* cannot
-   respond because a dialog is open.
+.. _tools-minimize-tray:
 
--  ``Network Port``: This can normally be left at default. Change this
-   value only if another application occupies this port and you get an
-   error message like shown below when starting *Little Navconnect*:
+Minimize to System Tray
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   ``[2016-07-27 16:45:35] Unable to start the server: The bound address is already in use.``
+Allows to close the main window but keeps the program running in the system tray, if enabled.
 
--  ``AI fetch radius``: Changes the radius around the user aircraft that is used to include AI or multiplayer aircraft.
-   Using higher values with a lot of AI or multiplayer aircraft can cause stutters in the simulator.
-   The unit is always nautical miles (1 NM equals to 1.852 km).
-   Note that FSX, P3D and MSFS allow a maxium of 105 NM.
+``Minimize to System Tray`` enabled:
+   A message window will be shown if the close button in the window frame is clicked.
+   The main window is closed and the program continues to run in the system tray.
+   Log messages are shown in the tooltip of the tray icon.
 
--  ``Fetch AI or multiplayer aircraft`` and
-   ``Fetch AI or multiplayer ships``: Disables fetching of AI vehicles
-   and the transfer across the network. This can be useful for
-   performance reasons if you use large amounts of AI but do not want to
-   see it in *Little Navmap*. Note that ship AI is not available on
-   X-Plane.
+   Note that the functions :ref:`file-quit` in the main menu and :ref:`tray-quit` in the tray icon context menu
+   still terminate *Little Navconnect* in the usual way.
 
--  ``Hide host name and IP in log window``: Check this option to disable
-   printing of host name and IP address on startup. This can be useful
-   for streaming sessions where *Little Navconnect* window is visible to
-   others.
+``Minimize to System Tray`` disabled:
+   The program terminates if the close button in the window frame is clicked.
 
-.. figure:: ../images/options.jpg
+The tray icon is visible if supported by the operating system and one of the options ``Minimize to System Tray`` or
+``Start minimized to System Tray`` is enabled.
 
-      *Little Navconnect* Options Dialog with default settings.
+You can click on the system tray icon of *Little Navconnect* in the Windows taskbar or other operating system
+toolbars to restore the main window.
+
+*Little Navconnect* will show the main window again on next startup.
+
+See :doc:`TRAY` for more information.
+
+.. _tools-start-minimize-tray:
+
+Start minimized to System Tray
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Starts *Little Navconnect* without showing the main window.
+The program shows a system tray icon.
+
+You can click on the system tray icon of *Little Navconnect* in the toolbar to
+restore the main window. Chapter :doc:`TRAY` gives more information.
+
+.. _tools-toolbar:
+
+Toolbar
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Shows or hides the toolbar on the main window.
+
+Help Menu
+~~~~~~~~~~~~~~~~~~~~
 
 .. _help-menu-contents:
 
-|Help| Help Menu -> Contents (Online)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|Help| User Manual (Online)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Shows the online help in your default web browser.
+Shows the online help in the default web browser.
 
 .. _help-menu-contents-offline:
 
-|Help| Help Menu -> Contents (Offline, PDF)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|Help| User Manual (Offline, PDF)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Shows the offline help PDF document in your default PDF viewer.
 
 .. _help-menu-about-little-navconnect:
 
-|About| Help Menu -> About Little Navconnect
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|About| About Little Navconnect
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Shows version and revision number for *Little Navconnect*, also contains
 links to the configuration file, log file and the author's e-mail
@@ -102,8 +122,8 @@ addresses.
 
 .. _help-menu-about-qt:
 
-|About Qt| Help Menu -> About Qt
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|About Qt| About Qt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Information about the `Qt application framework <https://www.qt.io>`__
 that is used by *Little Navconnect*.

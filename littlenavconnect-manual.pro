@@ -25,3 +25,16 @@ OTHER_FILES = \
   $$files(src/_static/*, true) \
   $$files(src/en/*.rst, false) \
   $$files(src/de/*.rst, false)
+
+# =====================================================================
+# Additional targets
+
+buildmanual.commands += cd $$PWD && $$PWD/sphinx_build.sh html en
+cleanmanual.commands += cd $$PWD && $$PWD/sphinx_clean.sh
+#deploymanual.commands += cd $$PWD && $$PWD/sphinx_rebuild_all.sh en
+
+QMAKE_EXTRA_TARGETS += buildmanual cleanmanual #deploymanual
+
+DISTFILES += \
+  src/en/TRAY.rst
+

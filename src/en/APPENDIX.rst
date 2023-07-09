@@ -32,7 +32,7 @@ Files
 Windows
 ~~~~~~~
 
-Log files of *Little Navconnect* for Windows 7/8/10 are typically stored
+Log files of *Little Navconnect* for Windows 10 or Windows 11 are typically stored
 in the directory:
 
 ``C:\Users\YOURUSERNAME\AppData\Local\Temp``

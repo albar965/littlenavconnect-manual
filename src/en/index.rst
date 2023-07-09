@@ -13,7 +13,7 @@ For versions |version|. Last update on |today|.
 
 More about my projects at `www.littlenavmap.org <https://www.littlenavmap.org>`__.
 Support forum at `AVSIM <https://www.avsim.com/forums/forum/780-little-navmap-little-navconnect-little-logbook-support-forum/>`__.
-The sources of this manual are available on `Github <https://github.com/albar965/littlenavconnect-manual>`__.
+The sources of this manual are available on `GitHub <https://github.com/albar965/littlenavconnect-manual>`__.
 
 --------------
 
@@ -35,6 +35,8 @@ Table of Contents
    START
    USAGE
    MENU
+   TRAY
+   OPTIONS
    APPENDIX
    LICENSE
 

@@ -13,7 +13,7 @@ Für die Programmversionen |version|. Zuletzt aktualisiert am |today|.
 
 Mehr über meine Projekte auf `www.littlenavmap.org <https://www.littlenavmap.org>`__.
 Supportforum auf `AVSIM <https://www.avsim.com/forums/forum/780-little-navmap-little-navconnect-little-logbook-support-forum/>`__ (Englisch).
-Die Quellen dieser Anleitung sind auf `Github <https://github.com/albar965/littlenavconnect-manual>`__ verfügbar.
+Die Quellen dieser Anleitung sind auf `GitHub <https://github.com/albar965/littlenavconnect-manual>`__ verfügbar.
 
 --------------
 
