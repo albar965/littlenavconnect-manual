@@ -20,17 +20,30 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Little Navconnect'
-copyright = u'2019-2023, Alexander Barthel'
+copyright = u'2019-2024, Alexander Barthel'
 author = u'Alexander Barthel'
 
 # VERSION_NUMBER
 # The short X.Y version
-version = u'2.8'
+version = u'3.0'
 # The full version, including alpha/beta/rc tags
-release = u'2.8.7'
+release = u'3.0.3.rc1'
 
 nitpicky = True
 
+# Variables used in layout.html ----------------------------------------------
+html_context = {
+  # Show a banner message on all pages
+  'banner_message_color': 'yellow',
+  'banner_message_bgcolor': 'red',
+
+  'banner_message_en': False,
+  'banner_message_text_en': 'This user manual for ' + project + ' version ' + version + ' is a draft.',
+
+
+  'banner_message_de': False,
+  'banner_message_text_de': 'Dieses Benutzerhandbuch für die ' + project + ' Versionen ' + version + ' ist noch nicht fertiggestellt.',
+}
 
 # -- General configuration ---------------------------------------------------
 

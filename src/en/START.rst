@@ -10,7 +10,7 @@ directory names.
 General
 ~~~~~~~~
 
-*Little Navconnect* is bundled with the *Little Navmap* download.
+*Little Navconnect* is bundled with the *Little Navmap* download. Do not try to download it separately.
 
 *Little Navconnect* acts as an agent that connects `Little
 Navmap <https://albar965.github.io/littlenavmap.html>`__ running on a
@@ -45,8 +45,7 @@ Installation
 Windows
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-*Little Navconnect* is bundled with the *Little Navmap* downloads. There is no
-separate package available.
+*Little Navconnect* is bundled with the *Little Navmap* downloads. Do not try to download it separately.
 
 See the installation instructions in the
 `Little Navmap User Manual - Installation <https://www.littlenavmap.org/manuals/littlenavmap/release/latest/en/INSTALLATION.html>`__.
