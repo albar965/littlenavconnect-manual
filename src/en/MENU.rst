@@ -23,8 +23,8 @@ FSX or Prepar3D, MSFS or X-Plane
 Selects the simulator connection. These functions are also available on
 the toolbar. The menu items depend on operating system and program build.
 
-You will see ``MSFS`` and ``X-Plane`` for for the Windows 64-bit build of *Little Navconnect*.
-``FSX or Prepar3D`` and ``X-Plane`` are shown for For the 32-bit build of *Little Navconnect*.
+You will see ``MSFS`` and ``X-Plane`` for the Windows 64-bit build of *Little Navconnect*.
+``FSX or Prepar3D`` and ``X-Plane`` are shown for the 32-bit build of *Little Navconnect*.
 
 These menu items are not shown on Linux and macOS since the only connection option is X-Plane.
 
