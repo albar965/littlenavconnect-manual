@@ -36,6 +36,3 @@ cleanmanual.commands += cd $$PWD && $$PWD/sphinx_clean.sh
 
 QMAKE_EXTRA_TARGETS += buildmanual cleanmanual #deploymanual
 
-DISTFILES += \
-  src/en/TRAY.rst
-

@@ -37,6 +37,7 @@ Table of Contents
    MENU
    TRAY
    OPTIONS
+   COMMANDLINE
    APPENDIX
    LICENSE
 
