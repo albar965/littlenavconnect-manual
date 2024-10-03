@@ -3,6 +3,8 @@
 Little Navconnect User Manual
 ================================
 
+**Translate this user manual on the fly into your language using** `Google Translate <https://translate.google.com/translate?sl=en&u=https%3A%2F%2Fwww.littlenavmap.org%2Fmanuals%2Flittlenavconnect%2Frelease%2Flatest%2Fen%2F>`__.
+
 *Little Navconnect* is a small free open source application that acts as
 an agent connecting *Little Navmap* with a flight simulator like FSX,
 Prepar3D, Microsoft Flight Simulator 2020 and X-Plane.

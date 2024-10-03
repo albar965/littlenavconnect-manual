@@ -160,14 +160,9 @@ color:     darkgray;
 }
 
 .highlight-style {
-  color:     blue;
+  font-weight: bold;
+  color:     #cc6600;
 }
-
-.highlight-bold-style {
-font-weight: bold;
-color:     blue;
-}
-
 
 /*.caption {
 background:     #f4f4f4;
