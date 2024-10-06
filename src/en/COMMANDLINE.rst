@@ -9,6 +9,11 @@ information on the terminal or the command line.
 
 Note that paths or files containing spaces or special characters have to be put in double quotes ``"``.
 
+.. note::
+
+  The program will not start if the command line option ``--quit`` / ``-q`` was set,
+  even if no other instance was found.
+
 .. important::
 
   The replay and whazzup options are mostly used for debugging and testing. Use these at your own risk.
