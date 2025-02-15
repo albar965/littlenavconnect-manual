@@ -17,8 +17,8 @@ Tools Menu
 
 .. _tools-sim:
 
-FSX or Prepar3D, MSFS or X-Plane
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FSX or Prepar3D, MSFS 2020, MSFS 2024 or X-Plane
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Selects the simulator connection. These functions are also available on
 the toolbar. The menu items depend on operating system and program build.

@@ -31,7 +31,7 @@ Windows Builds
 
 There are two builds of *Little Navmap* and *Little Navconnect* for Windows available:
 
--  **Windows 64-bit:** For MSFS and all X-Plane versions.
+-  **Windows 64-bit:** For MSFS 2020, MSFS 2024 and all X-Plane versions.
 -  **Windows 32-bit:** For FSX and Prepar3D.
 
 Note that *Little Navmap* and all related programs are inter-operable across the network (*Little Navmap* and *Little Navconnect*)

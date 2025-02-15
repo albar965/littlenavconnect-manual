@@ -20,14 +20,14 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Little Navconnect'
-copyright = u'2019-2024, Alexander Barthel'
+copyright = u'2019-2025, Alexander Barthel'
 author = u'Alexander Barthel'
 
 # VERSION_NUMBER_TODO
 # The short X.Y version
 version = u'3.0'
 # The full version, including alpha/beta/rc tags
-release = u'3.0.7'
+release = u'3.0.14'
 
 nitpicky = True
 
