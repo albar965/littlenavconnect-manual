@@ -1,26 +1,10 @@
-# English
+# Little Navconnect - User Manual
 
-* [Little Navconnect User Manual](en/README.md)
+**This repository contains the sources for the**  _Little Navconnect_ **user manual.**
 
-# French
+**The online version of the latest release can be found at
+[Little Navconnect - User Manual](https://www.littlenavmap.org/manuals/littlenavconnect/release/latest/en/)**.
 
-* [Little Navconnect User Manual](fr/README.md)
+**Download other formats like PDF, EPUB or MOBI from [Alex’ Projects - User Manuals](https://albar965.github.io/manuals.html)**.
 
-# Español
-
-* [Manual de Usuario](es/README.md)
-
-# Italian
-
-* [Little Navconnect User Manual](/it/README.md) \(Work in progress\)
-
-# Deutsch
-
-* [Little Navconnect Benutzerhandbuch](de/README.md) \(Work in progress\)
-
-# Portuguese Brasil
-
-* [Manual do Usuário Little Navconnect](/pt_BR/README.md) \(Trabalho em progresso-Work in Progress\) 
-
-
-
+**Issues can be submitted at [littlenavmap/issues](https://github.com/albar965/littlenavmap/issues)**.
